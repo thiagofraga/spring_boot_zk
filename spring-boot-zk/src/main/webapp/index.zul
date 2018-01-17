@@ -1,0 +1,6 @@
+<?page title="Spring Boot + ZK Framework" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="Spring Boot + ZK Framework" border="normal">
+	<label value="You are using: ${desktop.webApp.version}"/>
+</window>
+</zk>
